@@ -53,4 +53,4 @@ Open to **Werkstudent / HiWi / junior** roles in security, software, VR, or AI.
 - Email: [pauravipardeshi14@gmail.com](mailto:pauravipardeshi14@gmail.com)
 - GitHub: [github.com/Pauravi14](https://github.com/Pauravi14)
 
-*Open to work — available ~10–11 h/week for an additional student role (up to 20 h/week total).*
+*Open to work — seeking Werkstudent / HiWi / junior roles in security, software, VR, or AI.*
