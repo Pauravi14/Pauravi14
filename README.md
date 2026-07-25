@@ -32,7 +32,7 @@ Open to **Werkstudent / HiWi / junior** roles in security, software, VR, or AI.
 
 | Project | What it is | Stack |
 |---------|------------|--------|
-| [**ADA-VR / AI VR Security Assistant**](https://github.com/Pauravi14/ai-vr-security-assistant) | Adaptive authentication in VR with context/behaviour-based risk thinking | Unity, Python, VR |
+| [**ADA-VR / AI VR Security Assistant**](https://github.com/Pauravi14/ai-vr-security-assistant) · [Live demo](https://ai-vr-security-assistant.vercel.app) | Adaptive authentication in VR with context-based risk scoring | Next.js, TypeScript, VR security concepts |
 | **WebRTC P2P App** *(Team Lead)* | Browser real-time audio/video communication | JavaScript, HTML, CSS, WebRTC |
 | **Visual Acuity Test System** *(Team Lead)* | Low-cost digital Snellen-based vision assessment — **2nd Prize**, Prakalp | — |
 
