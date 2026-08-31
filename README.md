@@ -32,9 +32,10 @@ Open to **Werkstudent / HiWi / junior** roles in security, software, VR, or AI.
 
 | Project | What it is | Stack |
 |---------|------------|--------|
-| [**ADA-VR / AI VR Security Assistant**](https://github.com/Pauravi14/ai-vr-security-assistant) · [Live demo](https://ai-vr-security-assistant.vercel.app) | Adaptive authentication in VR with context-based risk scoring | Next.js, TypeScript, VR security concepts |
+| [**PraxisCheck**](https://github.com/Pauravi14/PraxisCheck) · [Portfolio](https://pauravi14.github.io/pauravi-portfolio) | GP/specialist finder for Paderborn — deployed **Android APK**, map, EN/DE | Expo, React Native, TypeScript |
+| [**ADA-VR / AI VR Security Assistant**](https://github.com/Pauravi14/ai-vr-security-assistant) · [Live demo](https://ai-vr-security-assistant.vercel.app) | Adaptive authentication in VR with context-based risk scoring | Next.js, TypeScript |
+| [**Portfolio**](https://github.com/Pauravi14/pauravi-portfolio) | Software, AI, and VR projects | React, TypeScript |
 | **WebRTC P2P App** *(Team Lead)* | Browser real-time audio/video communication | JavaScript, HTML, CSS, WebRTC |
-| **Visual Acuity Test System** *(Team Lead)* | Low-cost digital Snellen-based vision assessment — **2nd Prize**, Prakalp | — |
 
 ---
 
