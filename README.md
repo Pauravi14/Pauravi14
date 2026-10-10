@@ -26,7 +26,7 @@ Open to **Werkstudent / HiWi / junior** roles in software, security, VR, or AI.
 | 🛡️ | **AI VR Security Assistant** | Explainable **risk scoring** for VR sessions (Next.js portfolio slice) | [**Live demo**](https://ai-vr-security-assistant.vercel.app) · [Code](https://github.com/Pauravi14/ai-vr-security-assistant) |
 | 🚗 | **SESA KFZ website** | Production **German** business site + legal pages, Python static build | [**Production**](https://www.sesa-svb.de/) · [Pages](https://pauravi14.github.io/sesa-website/) · [Code](https://github.com/Pauravi14/sesa-website) |
 | 🎨 | **KFZ layout demo** | Sanitized portfolio clone of expert-site IA (HTML/CSS/JS) | [**Demo**](https://pauravi14.github.io/kfz-expert-website-demo/) · [Code](https://github.com/Pauravi14/kfz-expert-website-demo) |
-| 💼 | **Adored Us** | Freelance services site — pricing, samples, responsive brand UI | [**Live**](https://pauravi14.github.io/adored/) · [Code](https://github.com/Pauravi14/adored) |
+| 💼 | **Adored Us** | Freelance services site — pricing, samples, responsive brand UI (not public online) | [Code](https://github.com/Pauravi14/adored) |
 
 <p align="center">
   <a href="https://ai-vr-security-assistant.vercel.app"><img src="https://raw.githubusercontent.com/Pauravi14/pauravi-portfolio/main/assets/projects/ai-vr-security-assistant.png" width="420" alt="AI VR Security Assistant demo" /></a>
